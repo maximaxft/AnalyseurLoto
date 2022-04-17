@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\pyvoicechanger-master"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\PyAutoTune-master"
+		},
+		{
+			"path": "..\\..\\..\\..\\AppData\\Local\\Programs\\Python\\Python38-32\\Lib\\distutils"
+		},
+		{
+			"path": "..\\..\\..\\Song_Player_Bot"
+		},
+		{
+			"path": "..\\..\\..\\Bot_CSGO"
+		},
+		{
+			"path": "..\\..\\..\\Rootme"
+		},
+		{
+			"path": "..\\..\\..\\Autocook\\AutoCook_Projet\\programme"
+		},
+		{
+			"path": "..\\..\\..\\C++Test"
+		},
+		{
+			"path": "..\\..\\..\\RuneAutomationLol"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
