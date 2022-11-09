@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'automationroom.urls'
+ROOT_URLCONF = 'analyseur.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'automationroom.wsgi.application'
+WSGI_APPLICATION = 'analyseur.wsgi.application'
 
 
 # Database

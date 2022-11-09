@@ -23,7 +23,7 @@ class GetValue():
         self.start()
 
     def start(self):    
-        with open(r'../data/euromillions_202002.csv', newline='') as csvfile:
+        with open('./data/euromillions_202002.csv', newline='') as csvfile:
             spamreader = csv.reader(csvfile, delimiter=';', quotechar='|')
             for row in spamreader:
                 if row[1] == 'VENDREDI':
